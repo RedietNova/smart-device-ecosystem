@@ -68,5 +68,8 @@ SmartWatch.java
 Main.java
  Conclusion
 This project demonstrates how inheritance helps in creating a clean and reusable code structure. It shows how different objects can share common features while having their own specific behaviors.
+
+
+
 👤 Author
 Rediet
